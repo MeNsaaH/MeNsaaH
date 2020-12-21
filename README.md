@@ -5,9 +5,9 @@
 ![kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-Expert-blue?style=for-the-badge&logo=terraform)
 ![ansible](https://img.shields.io/badge/Ansible-Expert-blue?style=for-the-badge&logo=ansible)
-![GCP](https://img.shields.io/badge/GCP-Expert-blue?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-intermediate-orange?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-Expert-blue?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-intermediate-orange?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge)
 
 I am a Computer Engineering Student Graduate and a Site Reliability Engineer/DevOps managing and building distributed systems and also building tools to ease manage them.
 
@@ -17,6 +17,7 @@ I am a Computer Engineering Student Graduate and a Site Reliability Engineer/Dev
 
 
 ### 📫 Reach me at 
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamMensaah?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/manasseh-mmadu/)
 
