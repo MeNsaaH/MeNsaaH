@@ -22,5 +22,5 @@ I am a Computer Engineering Student Graduate and a Site Reliability Engineer/Dev
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasseh-mmadu/)
 [![Email](https://img.shields.io/badge/-mmadumanasseh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmadumanasseh@gmail.com)](mailto:mmadumanasseh@gmail.com)
 
-Checkout my [personal website](https://mensaah.live)🔗🔗
+Checkout my [portfolio website](https://mensaah.me)🔗🔗
 
