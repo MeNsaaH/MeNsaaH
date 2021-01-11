@@ -1,5 +1,4 @@
-### 👋 Hi there, I'm Manasseh mostly known by the Alias Mensaah amongst my Geeky friends 
-
+### 👋 Hi there, I'm Manasseh, MeNsaaH is my geeky Alter Ego
 ![Golang](https://img.shields.io/badge/Go-Expert-blue?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
