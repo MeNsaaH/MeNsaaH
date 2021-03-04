@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-Expert-blue?style=for-the-badge&logo=terraform)
-![ansible](https://img.shields.io/badge/Ansible-Intermediate-orange?style=for-the-badge&logo=ansible)
+![ansible](https://img.shields.io/badge/Ansible-Expert-blue?style=for-the-badge&logo=ansible)
 ![GCP](https://img.shields.io/badge/GCP-Expert-blue?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-intermediate-orange?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge)
