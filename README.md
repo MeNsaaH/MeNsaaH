@@ -14,8 +14,7 @@ I am a Computer Engineering Student Graduate and a Site Reliability Engineer/Dev
 
 - 💻 I’m currently at @DeimosCloud. 
 - 🔭 I write Golang, Python and some javascript (NodeJS), in addition to infrastructural management tools (kubernetes, terraform, ansible, etc).
-- ⚡ Fun fact: I prefer VIM to emacs 😤 and I evangelize VIM.
-
+- ⚡ Fun fact: I am VIM evangelist.
 
 ### 📫 Reach me at 
 
