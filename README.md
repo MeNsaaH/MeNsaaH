@@ -10,7 +10,7 @@
 ![Azure](https://img.shields.io/badge/Azure-intermediate-orange?style=for-the-badge)
 
 
-I am a Computer Engineering Student Graduate and a Site Reliability Engineer/DevOps managing and building distributed systems and also building tools to ease manage them.
+I am a Computer Engineer and a Site Reliability Engineer/DevOps managing and building distributed systems and also building tools to ease manage them.
 
 - 💻 I’m currently at @DeimosCloud. 
 - 🔭 I write Golang, Python and some javascript (NodeJS), in addition to infrastructural management tools (kubernetes, terraform, ansible, etc).
