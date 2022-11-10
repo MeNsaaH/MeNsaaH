@@ -12,7 +12,7 @@
 
 I am a Computer Engineer and a Site Reliability Engineer/DevOps managing and building distributed systems and also building tools to ease manage them.
 
-- 💻 I’m currently at @DeimosCloud. 
+- 💻 I’m currently at @zapier. 
 - 🔭 I write Golang, Python and some javascript (NodeJS), in addition to infrastructural management tools (kubernetes, terraform, ansible, etc).
 - ⚡ Fun fact: I am VIM evangelist.
 
